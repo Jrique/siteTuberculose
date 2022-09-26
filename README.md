@@ -1,2 +1,2 @@
-# siteHanseniase
-Site sobre a doença crônica "Hanseníase", desenvolvido para um trabalho interdisciplinar.
+# siteTuberculose
+Site sobre a doença "Tuberculose", desenvolvido para um trabalho interdisciplinar.
