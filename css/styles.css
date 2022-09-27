@@ -11340,8 +11340,8 @@ p {
 }
 
 #mainNav {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
   background-color: #ff8c00;
 }
 #mainNav .navbar-toggler {
